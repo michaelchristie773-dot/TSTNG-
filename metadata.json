@@ -1,0 +1,5 @@
+{
+  "name": "Vocalize AI Studio",
+  "description": "A high-fidelity text-to-speech studio powered by Gemini 2.5, featuring multi-speaker dialogues and professional prebuilt voices. Created by Michael Christie.",
+  "requestFramePermissions": ["microphone"]
+}
